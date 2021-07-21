@@ -1,3 +1,3 @@
 # my-website
 Change readme
-Edit on example branch
+Updates made on master on Github before rebase
